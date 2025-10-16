@@ -27,7 +27,7 @@ A aplicação permite o **gerenciamento de tarefas**, com **autenticação segur
 ## 🔗 Integração com o Back-end
 
 O front-end consome a API desenvolvida em **Spring Boot**, disponível no repositório:
-👉 [TODO LIST - Back-end](https://github.com/Taynad/TODOLIST-back-end/blob/main/README.md)
+👉 [TODO LIST - Back-end](https://github.com/Taynad/TODOLIST-back-end)
 
 > O back-end é responsável pelo controle de autenticação e armazenamento das tarefas.
 > O front envia requisições HTTP (POST, GET, PUT, DELETE) com autenticação via token JWT.
