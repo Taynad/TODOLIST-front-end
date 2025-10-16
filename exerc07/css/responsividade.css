@@ -1,0 +1,109 @@
+@media(min-width: 31.25rem){
+    .login{
+        width: 80rem;
+        height: 25rem;
+        
+    }
+
+    .login input{
+        width: 25rem;
+        height: 4rem;
+    }
+
+    .divInput input{
+        width: 35rem;
+    }
+
+    .divInput button{
+        width: 25rem;
+    }
+    
+}
+
+@media(min-width: 48.125rem){
+    .login{
+        width: 40rem;
+        height: 25rem;
+    }
+
+    .login input{
+        width: 35rem;
+        height: 4rem;
+    }
+
+    .login button{
+        width: 25rem;
+    }
+
+    .divInput input{
+        width: 25rem;
+    }
+
+    .divInput button{
+        width: 18rem;
+    }
+
+    .divInput{
+        flex-direction: row;
+    }
+
+    .buttonDelete{
+        margin-right: 15rem;
+    }
+}
+
+@media(min-width: 62.5rem){
+    .login{
+        width: 40rem;
+        height: 28rem;
+        
+    }
+
+    .login input{
+        margin: 2rem;
+        width: 40rem;
+        height: 4rem;
+    }
+
+    .login button{
+        width: 25rem;
+        height: 4rem;
+    }
+
+    .divInput{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .divInput input{
+        width: 30rem;
+    }
+}
+
+@media(min-width: 95.875rem){
+    .login{
+        width: 35rem;
+        height: 28rem;
+    }
+
+    .login input{
+        margin: 2rem;
+        width: 35rem;
+        height: 4rem;
+    }
+
+    .login button{
+        width: 25rem;
+        height: 4rem;
+    }
+
+    .divInput input{
+        width: 40rem;
+    }
+
+    .buttonDelete{
+        margin-right: 55rem;
+    }
+
+}
